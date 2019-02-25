@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Alexandr Kastykov
+HTML CSS Basics: https://www.codecademy.com/users/ajaxCoder17014/achievements
